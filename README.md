@@ -13,6 +13,10 @@ The platform allows blockchain users to create, sell or collect NFT
 
 https://mow-market-275c5.web.app/
 
+## Video demo
+
+[![demo](https://img.youtube.com/vi/m5md85ux-Zw/0.jpg)](https://youtu.be/m5md85ux-Zw 'demo')
+
 ## Roadmap ⛳
 
 ### 📌 Phase 1:
