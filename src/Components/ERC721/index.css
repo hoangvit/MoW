@@ -1,0 +1,11 @@
+.erc721-img {
+  width: 100% !important;
+  margin: auto;
+  height: 250px;
+  object-fit: contain;
+}
+
+.sp-between {
+  display: flex;
+  justify-content: space-between;
+}
