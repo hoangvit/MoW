@@ -19,11 +19,16 @@ https://mow-market-275c5.web.app/
 
 ## Contract (BSC Testnet)
 
-**AddressesProvider**: 0x61c8C967b54118d3310A24f0D4c1aA4A51bA11A4
+**AddressesProvider**: '0x61c8C967b54118d3310A24f0D4c1aA4A51bA11A4'
+
 **NftList**: '0x8717b0243ADaB85213f002F062dD43ef48647CfB'
+
 **Vault**: '0x672a1AE943b870184644d0b36A1a210AffDcb984'
+
 **SellOrderList**: '0xf6901a458Def0F2C94C47947a2016F782F2ea2ba'
+
 **Market**: '0xb4C087DF69Cf9A54B5FA0b47B59Bd6b46266579B'
+
 **MOW-NFT**: '0xEB8894de49349b9dfe804d43BFe988F483EaB5e7'
 
 ## Roadmap ⛳
